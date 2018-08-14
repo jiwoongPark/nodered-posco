@@ -1,0 +1,12 @@
+{
+    "name": "posco",
+    "description": "POSCO Project",
+    "version": "0.0.1",
+    "dependencies": {},
+    "node-red": {
+        "settings": {
+            "flowFile": "posco-flow.json",
+            "credentialsFile": "posco-flow_cred.json"
+        }
+    }
+}
